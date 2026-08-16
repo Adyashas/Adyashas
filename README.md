@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67" alt="MultiTaskingGuy" width="100%" />
+  <img src="https://github.com/user-attachments/assets/f2e5917a-b68e-402e-a9f5-61d1f28dd539" alt="MultiTaskingGuy" width="100%" />
 </div>
 
 <div align="center">
