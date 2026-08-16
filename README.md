@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Akshat+Sharma;Welcome+to+my+GitHub+Profile!;A+Passionate+Software+Engineer;Building+scalable+and+dynamic+apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7DCFFF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Adyasha+Singh;Welcome+to+my+GitHub+Profile!;A+Passionate+Software+Engineer;Building+scalable+and+dynamic+apps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=akshatsharma-x.akshatsharma-x&left_color=1D1F21&right_color=7DCFFF" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Adyashas.Adyashas&left_color=1D1F21&right_color=7DCFFF" alt="Profile Views" />
 </div>
 
 <br/>
@@ -52,12 +52,12 @@
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=akshatsharma-x&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" alt="Streak Graph" />
+  <img src="https://streak-stats.demolab.com?user=Adyashas&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" alt="Streak Graph" />
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshatsharma-x&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=00FF99" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatsharma-x&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=00FF99" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Adyashas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&title_color=00FF99" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adyashas&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&title_color=00FF99" alt="Top Languages" />
 </div>
 
 <br/>
